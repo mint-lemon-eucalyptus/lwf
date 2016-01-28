@@ -1,7 +1,0 @@
-[
-  {
-    "host": "auth-openloto.rhcloud.com",
-    "httpport": 80,
-    "wsport": 8000
-  }
-]
