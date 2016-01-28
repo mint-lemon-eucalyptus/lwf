@@ -1,4 +1,4 @@
-[
+{"response": [
     {
         "dns": "2-lwf1.rhcloud.com",
         "http": "http://2-lwf1.rhcloud.com",
@@ -11,4 +11,4 @@
     }
 
 
-]
+]}
