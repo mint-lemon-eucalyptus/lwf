@@ -1,14 +1,16 @@
-{"response": [
-    {
-        "dns": "2-lwf1.rhcloud.com",
-        "http": "http://2-lwf1.rhcloud.com",
-        "ws": "ws://2-lwf1.rhcloud.com:8000/"
-    },
-    {
-        "dns": "3-lwf1.rhcloud.com",
-        "http": "http://3-lwf1.rhcloud.com",
-        "ws": "ws://3-lwf1.rhcloud.com:8000/"
-    }
+{
+    "response": [
+        {
+            "dns": "2-lwf1.rhcloud.com",
+            "http": "http://2-lwf1.rhcloud.com",
+            "ws": "ws://2-lwf1.rhcloud.com:8000/"
+        },
+        {
+            "dns": "3-lwf1.rhcloud.com",
+            "http": "http://3-lwf1.rhcloud.com",
+            "ws": "ws://3-lwf1.rhcloud.com:8000/"
+        }
 
 
-]}
+    ]
+}
